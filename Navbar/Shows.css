@@ -48,8 +48,13 @@
   }
 
   body{
-      background-image: url(./img/background.jpg);
+
+      background-image: url(../img/background.jpg);
       background-repeat: no-repeat;
-    background-size: 100% 340%;
+    background-size: 100% 350%;
     text-align: right;
+  }
+
+  .Shows{
+      list-style-type: none;
   }
